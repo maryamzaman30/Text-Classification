@@ -6,7 +6,7 @@
 
 ## Introduction 
 
-This coursework focuses on the critical issue of fake news detection in the digital age, where misinformation can significantly impact public opinion and democratic processes. The project aims to compare the effectiveness of two machine learning models: a traditional statistical model (Logistic Regression) and a modern deep learning model (Bidirectional Long Short-Term Memory, BiLSTM).
+This midterm coursework focuses on the critical issue of fake news detection in the digital age, where misinformation can significantly impact public opinion and democratic processes. The project aims to compare the effectiveness of two machine learning models: a traditional statistical model (Logistic Regression) and a modern deep learning model (Bidirectional Long Short-Term Memory, BiLSTM).
 
 ### Key Components:
 
