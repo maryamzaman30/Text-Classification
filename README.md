@@ -6,7 +6,7 @@
 
 ## Introduction 
 
-This midterm coursework focuses on the critical issue of fake news detection in the digital age, where misinformation can significantly impact public opinion and democratic processes. The project aims to compare the effectiveness of two machine learning models: a traditional statistical model (Logistic Regression) and a modern deep learning model (Bidirectional Long Short-Term Memory, BiLSTM).
+In this Midterm during 5th Semester, I conducted a comparative study on fake news detection using the FakeNewsNet dataset, which contains over 23,000 labeled news articles, to evaluate the trade-offs between classical and deep learning models. I implemented both Logistic Regression and a Bidirectional Long Short-Term Memory (BiLSTM) neural network, finding that while Logistic Regression achieved 80% accuracy, the BiLSTM model improved performance to 85%, particularly in detecting fake news more reliably. This project demonstrated the critical balance between model simplicity and predictive power, offering practical insight into misinformation detection strategies and laying the groundwork for future exploration using transformer-based architectures.
 
 ### Key Components:
 
